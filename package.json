@@ -3,30 +3,21 @@
   "name": "test-npm",
   "version": "0.0.1",
   "description": "",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": ""
   },
-  "keywords": [
-    
-  ],
+  "keywords": [],
   "author": "",
   "license": "MIT",
-  "peerDependencies": {
-  },
   "devDependencies": {
-    "@babel/plugin-syntax-dynamic-import": "7.0.0",
     "@babel/preset-env": "^7.15.0"
   },
   "engines": {
     "node": ">=14"
   },
-  "browserslist": [
-    
-  ],
+  "browserslist": [],
   "nyc": {
     "include": [
       "src/packages/**/*.vue"
